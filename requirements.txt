@@ -1,0 +1,27 @@
+# =====================================
+# Requerimientos para Proyecto Sprint 10 — Predicción de Churn
+# =====================================
+
+# --- Core ---
+pandas==2.2.3
+numpy==1.26.4
+scipy==1.14.1
+
+# --- Visualización ---
+matplotlib==3.9.2
+seaborn==0.13.2
+
+# --- Machine Learning ---
+scikit-learn==1.5.2
+imbalanced-learn==0.12.3
+xgboost==2.1.2
+
+# --- Utilidades ---
+jupytext==1.16.4
+notebook==7.2.2
+ipykernel==6.29.5
+tqdm==4.66.5
+
+# --- Entorno reproducible ---
+python-dotenv==1.0.1
+
