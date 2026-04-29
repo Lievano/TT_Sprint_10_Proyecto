@@ -1,0 +1,32 @@
+# Local-only documentation and interview prep
+docs/
+INTERVIEW*.md
+notes/
+drafts/
+*.log
+*.tmp
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+venv/
+.env
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Local models and artifacts
+*.joblib
+*.pkl
+models/
+artifacts/
+
+# Large raw data, uncomment if needed before publishing
+# data/*.csv
